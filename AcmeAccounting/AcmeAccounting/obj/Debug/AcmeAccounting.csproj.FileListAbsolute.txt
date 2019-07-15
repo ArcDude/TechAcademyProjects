@@ -1,0 +1,7 @@
+C:\Users\Schui\Documents\GitHub\TechAcademyProjects\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe.config
+C:\Users\Schui\Documents\GitHub\TechAcademyProjects\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.exe
+C:\Users\Schui\Documents\GitHub\TechAcademyProjects\AcmeAccounting\AcmeAccounting\bin\Debug\AcmeAccounting.pdb
+C:\Users\Schui\Documents\GitHub\TechAcademyProjects\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.csprojAssemblyReference.cache
+C:\Users\Schui\Documents\GitHub\TechAcademyProjects\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Schui\Documents\GitHub\TechAcademyProjects\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.exe
+C:\Users\Schui\Documents\GitHub\TechAcademyProjects\AcmeAccounting\AcmeAccounting\obj\Debug\AcmeAccounting.pdb
